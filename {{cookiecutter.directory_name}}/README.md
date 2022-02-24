@@ -4,6 +4,7 @@
 {{cookiecutter.description_of_project}}
 
 *Author:* {{cookiecutter.author_name}}
+
 *Author email:* {{cookiecutter.author_email}}
 
 ## Project Setup
