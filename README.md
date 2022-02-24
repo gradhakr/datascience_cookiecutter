@@ -34,3 +34,5 @@ datascience_project/
 └── src
 ```
 
+**Note:** The .gitignore provided within the template is empty. You will need to populate it according to your use case. A default github python .gitignore (as of 24th Feb 2022) is provided in the parent folder of this repo.
+{: .note}
