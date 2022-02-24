@@ -1,4 +1,4 @@
-# datascience_cookiecutter
+# Cookiecutter template for DS/ML/AI projects
 Cookiecutter template for Data Science projects - template assumes a prototyping phase (using Jupyter notebooks) and a productionising phase.
 
 ## Prerequisites
