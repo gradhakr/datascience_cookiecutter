@@ -2,7 +2,10 @@
 Cookiecutter template for Data Science projects - template assumes a prototyping phase (using Jupyter notebooks) and a productionising phase.
 
 ## Prerequisites
-The main prerequisite is to have cookiecutter installed. Instructions on how to install and use cookiecutter are available [here](https://github.com/cookiecutter/cookiecutter).
+The main prerequisite is to have cookiecutter installed. Instructions on how to install and use cookiecutter are available [on the cookiecutter repo](https://github.com/cookiecutter/cookiecutter).
+
+[<img src = https://user-images.githubusercontent.com/6576247/155434119-3815a830-86de-47e7-b534-ee8e14209f7d.png>](https://github.com/cookiecutter/cookiecutter)
+
 
 ## Usage instructions
 The template can be used by issuing the following command:
