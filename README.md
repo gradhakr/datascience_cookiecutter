@@ -1,5 +1,5 @@
 # Cookiecutter template for DS/ML/AI projects
-Custom Cookiecutter template for Data Science projects - template assumes a prototyping phase (using Jupyter notebooks) and a productionising phase.
+Custom cookiecutter template for Data Science projects - template assumes a prototyping phase (using Jupyter notebooks) and a productionising phase.
 
 ## Prerequisites
 The main prerequisite is to have cookiecutter installed. Instructions on how to install and use cookiecutter are available [on the cookiecutter repo](https://github.com/cookiecutter/cookiecutter).
